@@ -1,11 +1,10 @@
-
-.tel{
-    width: 50%;
-    margin-bottom: 5px;
+h1{
+    border-bottom: 1px solid;
 }
-.dd{
-    width: 17%;
+div.dados{
+    border-right: 1px solid;
+    margin-top:47px;
 }
-.number{
-    width: 33%;
+div.masculino{
+    margin-right: 10px;
 }

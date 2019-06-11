@@ -17,7 +17,7 @@ $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 }catch(PDOException $e){
 
-echo "erestamos em manutenção , volte novamente mais tarde";
+echo "estamos em manutenção em manutenção , volte novamente mais tarde";
 
  echo $e->getMenssage(); // enviar menssagem
 }
